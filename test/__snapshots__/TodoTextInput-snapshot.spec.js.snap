@@ -1,0 +1,11 @@
+exports[`test snapshot TodoTextInput 1`] = `
+<input
+  autoFocus="true"
+  className="edit"
+  onBlur={[Function]}
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder={undefined}
+  type="text"
+  value="" />
+`;
